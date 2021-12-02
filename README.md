@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 
 Here is the solution site url-
-https://drougnov.github.io/fylo-data-storage-component-main/
+https://drougnov.github.io/fylo-data-storage-component-master/
 
 ## Built with
 
